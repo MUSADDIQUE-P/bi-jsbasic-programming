@@ -7,4 +7,4 @@ for(let i=1; i<=integer; i++)
   }
 
 n=n-integer
-console.log(n)
+document.write(n)
