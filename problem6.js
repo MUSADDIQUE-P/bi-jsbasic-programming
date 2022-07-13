@@ -4,4 +4,4 @@ for(let i=1; i<=n; i++)
   {
    a=a+i 
   }
-console.log(a)
+document.write(a)
